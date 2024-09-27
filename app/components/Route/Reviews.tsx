@@ -55,7 +55,7 @@ const Reviews = (props: Props) => {
       <div className="w-full 800px:flex items-center">
       <div className="800px:w-[50%] w-full">
         <Image
-        src={require("../../../public/assests/business-img.png")}
+        src={require("../../../public/assets/business-img.png")}
         alt="business"
         width={700}
         height={700}
